@@ -1,0 +1,26 @@
+#page-map{
+    background-color: lightblue;
+}
+
+#page-map-header{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 60px;
+    color: white;
+    background-color: black;
+}
+
+#page-map-header .title{
+
+}
+
+#page-map-area{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 60px;
+    bottom: 0;
+    background-color: lightgray;
+}
