@@ -4,6 +4,9 @@
     margin: 0;
 }
 
+body {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; ;
+}
 .page {
     position: absolute;
     top: 0;
